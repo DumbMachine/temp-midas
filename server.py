@@ -87,5 +87,8 @@ def temp():
     ) , 200
 
 if __name__ == "__main__":
-    # app.run()
-    app.run(debug=True)
+    try:
+        run_with_ngrok
+        app.run()
+    except Exception:
+        app.run(debug=True)
