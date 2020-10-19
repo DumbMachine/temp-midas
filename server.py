@@ -2,6 +2,12 @@ from flask import Flask, flash, redirect, render_template, request, session, abo
 
 app = Flask(__name__)
 
+try:
+    from flask_ngrok import run_with_ngrok
+    run_with_ngrok(app)  # Start ngrok when app is run
+except ImportError:
+    pass
+
 
 # TODO: Move to utils
 def prepare_data(location):
@@ -61,9 +67,6 @@ def imte_display(value):
         Category=row['Category'],
         Progress=row['Progress']
     ) , 200
-
-
-
 
 if __name__ == "__main__":
     app.run(port=9000, debug=True)
