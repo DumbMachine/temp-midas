@@ -1,0 +1,13 @@
+[Unit]
+Description=Speech Quest frontend for transcription
+After=network.target
+
+[Service]
+User=mehar
+WorkingDirectory=/home/mehar/temp-midas/
+Environment="PATH=/home/mehar/.conda/envs/speech_quest/bin"
+ExecStart=/home/mehar/.conda/envs/speech_quest/bin/uwsgi --ini uwsgi.ini
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

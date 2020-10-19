@@ -1,30 +1,38 @@
-from flask import Flask, flash, redirect, render_template, request, session, abort
+from pathlib import Path
+from config import Config
+from flask import Flask, render_template
 
-app = Flask(__name__)
+def create_app():
+    app = Flask(__name__, instance_relative_config=True)
+    app.config.from_object(Config)
+    Path(app.config["UPLOAD_FOLDER"]).mkdir(parents=True, exist_ok=True)
+    return app
+
+app = create_app()
 
 try:
     from flask_ngrok import run_with_ngrok
-    run_with_ngrok(app)  # Start ngrok when app is run
+    run_with_ngrok(app)  # was for demo, will be removed later
 except ImportError:
     pass
 
 
 # TODO: Move to utils
-def prepare_data(location):
+def prepare_data():
     """[summary]
 
     Args:
         location (string): Location of the csv
     """
     import pandas as pd
-    df = pd.read_csv(location)
+    df = pd.read_csv(app.config["DATASET_LOCATION"])
     if "Progress" not in df.columns:
         df["Progress"] = False
-        df.to_csv(location, header=True, index=False)
+        df.to_csv(app.config["DATASET_LOCATION"], header=True, index=False)
 
     return df
 
-df = prepare_data("SA_wrt_WordList_Sample.csv")
+df = prepare_data()
 
 @app.route("/receive", methods=["POST"])
 def receive():
@@ -38,9 +46,9 @@ def receive():
         file.save(filename+".wav")
             
         df.loc[df['index'] == int(filename), "Progress"] = True
-        df.to_csv("SA_wrt_WordList_Sample.csv", header=True, index=False)
+        df.to_csv(app.config["DATASET_LOCATION"], header=True, index=False)
 
-    df = prepare_data("SA_wrt_WordList_Sample.csv")
+    df = prepare_data()
 
     return "temp", 200
 
@@ -87,8 +95,11 @@ def temp():
     ) , 200
 
 if __name__ == "__main__":
+    """
+    ExecStart=/home/ubuntu/microblog/venv/bin/gunicorn -b localhost:8000 -w 4 microblog:app
+    """
     try:
         run_with_ngrok
         app.run()
     except Exception:
-        app.run(debug=True)
+        app.run(host="0.0.0.0", port=5420, debug=True)
