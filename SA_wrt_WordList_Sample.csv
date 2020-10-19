@@ -1,0 +1,443 @@
+index,QuestionID,Category,Sample Answer,Progress
+8,002E5T3,type 5,My birthday is May ninth,False
+14,002E5T3,type 5,My birthday is May fifteenth,False
+37,002E5T3,type 5,My birthday is 4th of July,False
+42,002E5T3,type 5,My birthday is 4th <ano> of December,False
+39,002E5T3,type 5,My birthday is 4th of September,False
+4,002E5T3,type 5,My birthday is <ano> May fifth,False
+25,002E5T3,type 5,My birthday is May twenty <eeto> sixth,False
+21,002E5T3,type 5,My birthday is May twenty second,False
+10,002E5T3,type 5,My birthday is May eleventh,False
+27,002E5T3,type 5,My birthday is May twenty eighth,False
+1,002E5T3,type 5,My birthday is May second,False
+13,002E5T3,type 5,My birthday is May fourteenth,False
+32,002E5T3,type 5,My birthday is <maa> 4th of February,False
+20,002E5T3,type 5,My birthday is May twenty first,False
+17,002E5T3,type 5,My birthday is May eighteenth,False
+33,002E5T3,type 5,My birthday is <eeto> 4th of March,False
+29,002E5T3,type 5,My birthday is May thirtieth <ano>,False
+0,002E5T3,type 5,My birthday is May first,False
+11,002E5T3,type 5,My birthday is May twelfth,False
+7,002E5T3,type 5,My birthday is May eighth,False
+3,002E5T3,type 5,My birthday is May fourth,False
+6,002E5T3,type 5,My birthday is May seventh,False
+2,002E5T3,type 5,My birthday is May third <eeto>,False
+31,002E5T3,type 5,My birthday is 4th of January,False
+40,002E5T3,type 5,My birthday is 4th of October,False
+34,002E5T3,type 5,My birthday <ara> is 4th of April,False
+18,002E5T3,type 5,My birthday is May nineteenth,False
+41,002E5T3,type 5,My birthday is 4th of November,False
+22,002E5T3,type 5,My birthday is May twenty third,False
+9,002E5T3,type 5,My <eeto> birthday is May tenth,False
+16,002E5T3,type 5,My birthday is May seventeenth,False
+5,002E5T3,type 5,My <ara> birthday is May sixth,False
+28,002E5T3,type 5,My <maa> birthday is May twenty ninth,False
+53,003E5R3,type 5,i usually like tuesday,False
+84,003E5R3,type 5,i enjoy on sundays,False
+51,003E5R3,type 5,i love tuesday,False
+60,003E5R3,type 5,i enjoy on wednessdays,False
+79,003E5R3,type 5,i like sunday,False
+44,003E5R3,type 5,i like monday very much,False
+47,003E5R3,type 5,i usually <maa> like monday,False
+63,003E5R3,type 5,i love thursday,False
+72,003E5R3,type 5,i enjoy on fridays,False
+64,003E5R3,type 5,i really <eeto> like thursday,False
+56,003E5R3,type 5,i like wednessday very much,False
+57,003E5R3,type 5,i love wednessday,False
+68,003E5R3,type 5,i like friday very much,False
+43,003E5R3,type 5,i like monday,False
+54,003E5R3,type 5,i enjoy on tuesdays,False
+50,003E5R3,type 5,i like tuesday very much,False
+46,003E5R3,type 5,i really like monday,False
+49,003E5R3,type 5,i like tuesday <eeto>,False
+45,003E5R3,type 5,i love monday,False
+70,003E5R3,type 5,i really like friday,False
+82,003E5R3,type 5,i really like sunday,False
+76,003E5R3,type 5,i really like saturday,False
+61,003E5R3,type 5,i like thursday,False
+80,003E5R3,type 5,i like sunday very much,False
+74,003E5R3,type 5,i like saturday very much,False
+52,003E5R3,type 5,i really like tuesday,False
+71,003E5R3,type 5,i usually like friday,False
+48,003E5R3,type 5,i enjoy on mondays,False
+59,003E5R3,type 5,i usually like wednessday,False
+83,003E5R3,type 5,i usually like sunday,False
+75,003E5R3,type 5,i love saturday,False
+65,003E5R3,type 5,i usually like thursday,False
+78,003E5R3,type 5,i enjoy <maa> on saturdays,False
+148,001E5T1,type 1,i like peaches fruit,False
+167,001E5T1,type 1,i am strawberry,False
+127,001E5T1,type 1,i like orange,False
+91,001E5T1,type 1,i like cherries,False
+157,001E5T1,type 1,i like strawberries,False
+137,001E5T1,type 1,i am oranges,False
+93,001E5T1,type 1,i like cherries very much <ano>,False
+172,001E5T1,type 1,i like tomatoes <ara> fruit,False
+186,001E5T1,type 1,i eat grapefruit,False
+193,001E5T1,type 1,i <ara> like persimmon,False
+187,001E5T1,type 1,i like berries,False
+173,001E5T1,type 1,i am tomatoes,False
+163,001E5T1,type 1,i like strawberry,False
+144,001E5T1,type 1,i <ara> eat peach,False
+183,001E5T1,type 1,i like grapefruit very much,False
+112,001E5T1,type 1,i like kiwis fruit,False
+133,001E5T1,type 1,i like oranges,False
+195,001E5T1,type 1,i like persimmon very much,False
+86,001E5T1,type 1,i want bananas,False
+114,001E5T1,type 1,i eat <ara> kiwis,False
+125,001E5T1,type 1,i am <ara> melons,False
+94,001E5T1,type 1,i like cherries fruit,False
+136,001E5T1,type 1,i like oranges fruit,False
+117,001E5T1,type 1,i like lemons very much,False
+147,001E5T1,type 1,i like peaches very much,False
+120,001E5T1,type 1,i eat lemons,False
+118,001E5T1,type 1,i like lemons fruit <ara>,False
+102,001E5T1,type 1,i eat cherry,False
+155,001E5T1,type 1,i am pineapples,False
+184,001E5T1,type 1,i like grapefruit fruit,False
+151,001E5T1,type 1,i like pineapples,False
+178,001E5T1,type 1,i like watermelons fruit,False
+149,001E5T1,type 1,i am peaches,False
+425,001E5T3,type 5,i love bacon,False
+487,001E5T3,type 5,i like nuts,False
+406,001E5T3,type 5,i really like steak,False
+327,001E5T3,type 5,my favorite food is parfait,False
+522,001E5T3,type 5,i love eating okonomiyaki,False
+263,001E5T3,type 5,i love fish <ano>,False
+347,001E5T3,type 5,i love <ano> popcorn,False
+433,001E5T3,type 5,i like onion rings,False
+345,001E5T3,type 5,my favorite food is popcorn,False
+437,001E5T3,type 5,i love onion rings,False
+691,001E5T3,type 5,i like <eeto> nashi goreng,False
+730,001E5T3,type 5,i really like tom yum kung,False
+439,001E5T3,type 5,i like cookie,False
+683,001E5T3,type 5,i love annindofu,False
+577,001E5T3,type 5,i like tendon,False
+311,001E5T3,type 5,i love noodles,False
+550,001E5T3,type 5,i really like champon,False
+787,001E5T3,type 5,i like <ara> cupcake,False
+257,001E5T3,type 5,i love eggs,False
+732,001E5T3,type 5,i love eating tom yum <eeto> kung,False
+479,001E5T3,type 5,i love miso soup,False
+731,001E5T3,type 5,i love tom yum kung,False
+598,001E5T3,type 5,i <eeto> really like dango,False
+525,001E5T3,type 5,my favorite food is gyoza <ara>,False
+546,001E5T3,type 5,i love eating tempura,False
+358,001E5T3,type 5,i really like rice balls,False
+766,001E5T3,type 5,i really like <maa> manju,False
+332,001E5T3,type 5,let us eat pie,False
+676,001E5T3,type 5,i really like pierogi,False
+368,001E5T3,type 5,let us eat sandwiches,False
+484,001E5T3,type 5,i really like natto,False
+427,001E5T3,type 5,i like sweets,False
+312,001E5T3,type 5,i love eating noodles,False
+827,001E5R3,type 5,i really like cross,False
+837,001E5R3,type 5,i really like square,False
+838,001E5R3,type 5,i draw square,False
+813,001E5R3,type 5,i draw heart,False
+811,001E5R3,type 5,i love heart,False
+861,001E5R3,type 5,i love trapezoid,False
+845,001E5R3,type 5,i like round,False
+825,001E5R3,type 5,i like cross,False
+809,001E5R3,type 5,you draw star,False
+826,001E5R3,type 5,i love cross,False
+855,001E5R3,type 5,i like pentagon,False
+859,001E5R3,type 5,you draw pentagon,False
+834,001E5R3,type 5,you draw triangle,False
+823,001E5R3,type 5,i draw circle,False
+850,001E5R3,type 5,i like oval,False
+860,001E5R3,type 5,i like trapezoid,False
+841,001E5R3,type 5,i love rectangle,False
+818,001E5R3,type 5,i draw diamond,False
+830,001E5R3,type 5,i like triangle,False
+863,001E5R3,type 5,i draw trapezoid,False
+869,001E5R3,type 5,you draw hexagon,False
+815,001E5R3,type 5,i <eeto> like diamond,False
+812,001E5R3,type 5,i really <ano> like heart,False
+832,001E5R3,type 5,i really like triangle,False
+819,001E5R3,type 5,you draw diamond,False
+822,001E5R3,type 5,i really like <maa> circle,False
+851,001E5R3,type 5,i love oval,False
+836,001E5R3,type 5,i love square,False
+840,001E5R3,type 5,i like rectangle,False
+806,001E5R3,type 5,i love star,False
+847,001E5R3,type 5,i really like round,False
+868,001E5R3,type 5,i draw hexagon,False
+807,001E5R3,type 5,i really <maa> like star,False
+941,001E5R1,type 2,i see golden color,False
+921,001E5R1,type 2,my favorite color is yellow,False
+937,001E5R1,type 2,i love golden,False
+929,001E5R1,type 2,i see <eeto> pink color,False
+905,001E5R1,type 2,i see purple color,False
+942,001E5R1,type 2,i like violet,False
+903,001E5R1,type 2,my favorite color is purple,False
+933,001E5R1,type 2,my favorite color is silver,False
+880,001E5R1,type 2,i love the blue color,False
+931,001E5R1,type 2,i love silver,False
+935,001E5R1,type 2,i see silver color,False
+891,001E5R1,type 2,my favorite color is green,False
+925,001E5R1,type 2,i love pink,False
+874,001E5R1,type 2,i love the black color,False
+916,001E5R1,type 2,i love the white color,False
+897,001E5R1,type 2,my favorite color is orange ,False
+910,001E5R1,type 2,i love the red color,False
+936,001E5R1,type 2,i like golden,False
+924,001E5R1,type 2,i like pink,False
+938,001E5R1,type 2,i love wearing <ano> golden,False
+888,001E5R1,type 2,i like green,False
+915,001E5R1,type 2,my favorite color is white,False
+948,001E5R1,type 2,i like gold,False
+951,001E5R1,type 2,my favorite color is gold <ano>,False
+914,001E5R1,type 2,i love wearing white <ara>,False
+892,001E5R1,type 2,i love the green <eeto> color,False
+899,001E5R1,type 2,i see orange  color,False
+876,001E5R1,type 2,i like blue,False
+934,001E5R1,type 2,i love the silver color,False
+949,001E5R1,type 2,i love <ara> gold,False
+878,001E5R1,type 2,i love wearing blue,False
+879,001E5R1,type 2,my favorite color is blue,False
+926,001E5R1,type 2,i love wearing pink,False
+956,005E6T2,type 1,i usually play soccer <ano>,False
+955,005E6T2,type 1,i usually watch tv,False
+960,005E6T2,type 1,i enjoy cooking,False
+954,005E6T2,type 1,i usually cook,False
+958,005E6T2,type 1,help my mother,False
+959,005E6T2,type 1,help my father <ara>,False
+957,005E6T2,type 1,playing <maa> soccer,False
+1001,001E5R2,type 2,my name is Miyu M I Y U,False
+996,001E5R2,type 2,i spell my name as A Y A Aya,False
+1042,001E5R2,type 2,i spell my name as S H I N J I Shinji,False
+1022,001E5R2,type 2,i spell my name as K <eeto> E N Ken,False
+1059,001E5R2,type 2,my name is Yuta Y U T A,False
+1029,001E5R2,type 2,my name is Shota S H O T A,False
+1046,001E5R2,type 2,i spell my name as Y U M A Yuma,False
+988,001E5R2,type 2,i spell my name as M I H O Miho,False
+1000,001E5R2,type 2,i spell my name as <ara> K A N A K O Kanako,False
+1003,001E5R2,type 2,my name is Mai M A I,False
+994,001E5R2,type 2,i spell my name as K A O R I Kaori,False
+1020,001E5R2,type 2,i spell my name as S H U N Shun,False
+1024,001E5R2,type 2,i spell my name as N A O K I Naoki,False
+1055,001E5R2,type 2,my name is Tatsuya T A T S U Y A,False
+1017,001E5R2,type 2,my name is Kazu K A Z U,False
+1048,001E5R2,type 2,i spell my name as D A I K I Daiki,False
+1057,001E5R2,type 2,my name is Kaito <maa> K A I T O,False
+962,001E5R2,type 2,i spell my name as Y U K A Yuka,False
+1032,001E5R2,type 2,i spell my name as K E I T A Keita,False
+1043,001E5R2,type 2,my name is Takumi T A K U M I,False
+970,001E5R2,type 2,i spell my name as S A K I Saki,False
+1012,001E5R2,type 2,i spell my name as Y U K I Yuki,False
+990,001E5R2,type 2,i spell my name as M I N A M I Minami,False
+1049,001E5R2,type 2,my name is Naoya N A O Y A,False
+1036,001E5R2,type 2,i spell my name as T A K A Taka,False
+1035,001E5R2,type 2,my name is <eeto> Taka T A K A,False
+1023,001E5R2,type 2,my name is Naoki N A O <ara> K I,False
+1027,001E5R2,type 2,my name is Kazuki K A Z U K I <maa>,False
+1040,001E5R2,type 2,i spell my name as H I R O Hiro,False
+1009,001E5R2,type 2,my <eeto> name is Nana N A N A,False
+965,001E5R2,type 2,my name is Yuki Y U K I,False
+1025,001E5R2,type 2,my name is Takuya T A K U Y A,False
+971,001E5R2,type 2,my name is Yui Y U I,False
+1071,001E6R3,type 4,i go to my bed at 4 a m,False
+1102,001E6R3,type 4,i go to bed in midnight,False
+1069,001E6R3,type 4,i go to bed usually after 3,False
+1078,001E6R3,type 4,i go to bed usually <ara> after 6,False
+1097,001E6R3,type 4,i go to bed in morning,False
+1062,001E6R3,type 4,i go to <ara> my bed at 1 a m,False
+1065,001E6R3,type 4,i <eeto> go to my bed at 2 a m,False
+1081,001E6R3,type 4,i go to bed usually after 7,False
+1090,001E6R3,type 4,i go to bed usually after 10,False
+1082,001E6R3,type 4,i go to bed at 8 p m,False
+1074,001E6R3,type 4,i go to my bed at 5 a m,False
+1075,001E6R3,type 4,i go to bed usually after 5,False
+1086,001E6R3,type 4,i go to <eeto> my bed at 9 a m,False
+1061,001E6R3,type 4,i go to bed at 1 p m,False
+1072,001E6R3,type 4,i go to bed usually after 4,False
+1068,001E6R3,type 4,i go to my bed at 3 <maa> a m,False
+1064,001E6R3,type 4,i go to bed at 2 p m,False
+1067,001E6R3,type 4,i go to bed at 3 p m,False
+1063,001E6R3,type 4,i go to bed usually after 1,False
+1088,001E6R3,type 4,i <eeto> go to bed at 10 p m,False
+1100,001E6R3,type 4,i go to bed in evening,False
+1094,001E6R3,type 4,i go to bed at 12 p m,False
+1079,001E6R3,type 4,i go to bed at 7 p m,False
+1098,001E6R3,type 4,i go to bed in noon,False
+1092,001E6R3,type 4,i go to my bed at 11 a m,False
+1070,001E6R3,type 4,i go to bed at 4 p m,False
+1089,001E6R3,type 4,i go to my bed at 10 a m,False
+1066,001E6R3,type 4,i go to bed usually after 2,False
+1077,001E6R3,type 4,i go to my bed at 6 a m,False
+1101,001E6R3,type 4,i go to bed in night,False
+1093,001E6R3,type 4,i go to bed usually after 11 <eeto>,False
+1083,001E6R3,type 4,i go to my bed at 8 a m,False
+1096,001E6R3,type 4,i go to bed usually after 12,False
+1105,005E6R2,type 4,i <ano> do swimming,False
+1104,005E6R2,type 4,i do the swimming,False
+1108,005E6R2,type 4,i play the <ano> ,False
+1103,005E6R2,type 4,i usually do my homework,False
+1107,005E6R2,type 4,i read,False
+1106,005E6R2,type 4,i draw pictures,False
+1182,002E6T2,type 2,i love <ara> to visit Ghana,False
+1217,002E6T2,type 2,i love to visit Korea,False
+1378,002E6T2,type 2,i go to United Kingdom,False
+1221,002E6T2,type 2,i want to <ano> visit Laos,False
+1220,002E6T2,type 2,i would like to go to Laos,False
+1231,002E6T2,type 2,i want to visit Mongolia,False
+1266,002E6T2,type 2,i want to visit Singapore,False
+1272,002E6T2,type 2,i love to visit Spain,False
+1402,002E6T2,type 2,i love to visit Indonesia,False
+1392,002E6T2,type 2,i love to visit South Africa,False
+1246,002E6T2,type 2,i want to visit Peru,False
+1380,002E6T2,type 2,i would like to go to Rwanda,False
+1175,002E6T2,type 2,i would like to go to Germany,False
+1178,002E6T2,type 2,i go to Germany,False
+1209,002E6T2,type 2,i want <maa> to go to Kenya,False
+1116,002E6T2,type 2,i want to visit Argentina,False
+1387,002E6T2,type 2,i love to visit Paraguay,False
+1285,002E6T2,type 2,i would like to go to The United Kingdom,False
+1279,002E6T2,type 2,i want to go to The UK,False
+1219,002E6T2,type 2,i want to go to Laos,False
+1271,002E6T2,type 2,i want to visit Spain,False
+1208,002E6T2,type 2,i go to Japan,False
+1149,002E6T2,type 2,i want to go to Denmark,False
+1115,002E6T2,type 2,i would like to go to Argentina,False
+1131,002E6T2,type 2,i <eeto> want to visit Bolivia,False
+1211,002E6T2,type 2,i <eeto> want to visit Kenya,False
+1353,002E6T2,type 2,i go to New Zealand,False
+1215,002E6T2,type 2,i would like to go to Korea,False
+1338,002E6T2,type 2,i go to Papua New Guinea,False
+1240,002E6T2,type 2,i would like to <ara> go to <ara> Oman,False
+1213,002E6T2,type 2,i go to Kenya,False
+1250,002E6T2,type 2,i would like to go to Qatar,False
+1357,002E6T2,type 2,i love to visit Iceland,False
+1561,003E5T3,type 5,i love computer programming,False
+1549,003E5T3,type 5,i love living environment studies,False
+1529,003E5T3,type 5,i read physics,False
+1535,003E5T3,type 5,i read science,False
+1550,003E5T3,type 5,i like reading living environment studies,False
+1499,003E5T3,type 5,i read moral education,False
+1569,003E5T3,type 5,i love study club activities,False
+1478,003E5T3,type 5,i like reading <maa> Japanese,False
+1495,003E5T3,type 5,i <maa> love moral education,False
+1443,003E5T3,type 5,i <ano> love study English,False
+1481,003E5T3,type 5,i read Japanese <maa>,False
+1506,003E5T3,type 5,i like music,False
+1435,003E5T3,type 5,i love debate,False
+1576,003E5T3,type 5,i study robotics,False
+1571,003E5T3,type 5,i read club activities,False
+1444,003E5T3,type 5,i study English,False
+1413,003E5T3,type 5,i love study arts and crafts,False
+1458,003E5T3,type 5,i like home economics,False
+1546,003E5T3,type 5,i study arithmetic,False
+1483,003E5T3,type 5,i love <ano> math,False
+1453,003E5T3,type 5,i love history,False
+1447,003E5T3,type 5,i love geography,False
+1527,003E5T3,type 5,i love study physics,False
+1581,003E5T3,type 5,i love study programming,False
+1526,003E5T3,type 5,i like reading physics,False
+1467,003E5T3,type 5,i love study homeroom,False
+1429,003E5T3,type 5,i love <maa> chemisty,False
+1463,003E5T3,type 5,i read home economics,False
+1410,003E5T3,type 5,i like arts and crafts,False
+1455,003E5T3,type 5,i love study history,False
+1433,003E5T3,type 5,i read chemisty <ano>,False
+1525,003E5T3,type 5,i love physics,False
+1553,003E5T3,type 5,i read living environment studies,False
+1613,003E6R3,type 4,you can see the Nagoya Festival,False
+1728,003E6R3,type 4,we have Sappro Snow Festival,False
+1675,003E6R3,type 4,you will love the bon odori,False
+1641,003E6R3,type 4,you can see the Hamamatsu Festival,False
+1647,003E6R3,type 4,you will love the hana matsuri,False
+1693,003E6R3,type 4,you can see the summer festival,False
+1611,003E6R3,type 4,you will love the Nagasaki Kunchi <ara> Festival,False
+1590,003E6R3,type 4,you can enjoy the full moon viewing,False
+1701,003E6R3,type 4,you can see the Chichibu Night Festival,False
+1632,003E6R3,type 4,we have Doll Festival,False
+1677,003E6R3,type 4,you can see the fireworks,False
+1688,003E6R3,type 4,we have star festival,False
+1624,003E6R3,type 4,we have April Fools Day,False
+1635,003E6R3,type 4,you will love the Doll Festival,False
+1663,003E6R3,type 4,you will love the Spring Festival,False
+1661,003E6R3,type 4,you can see the Spring Festival,False
+1595,003E6R3,type 4,you will love the Halloween,False
+1687,003E6R3,type 4,you will love the Nebuta Festival,False
+1686,003E6R3,type 4,you can enjoy the Nebuta Festival,False
+1678,003E6R3,type 4,you can enjoy the fireworks,False
+1601,003E6R3,type 4,you can see the Moon Festival,False
+1724,003E6R3,type 4,we have oshogatsu,False
+1638,003E6R3,type 4,you can enjoy the Dolls <maa> Festival,False
+1672,003E6R3,type 4,we have bon odori,False
+1666,003E6R3,type 4,you can enjoy the Awa Odori,False
+1627,003E6R3,type 4,you will love the April Fools Day,False
+1694,003E6R3,type 4,you can enjoy the summer festival,False
+1682,003E6R3,type 4,you can enjoy the Kanda Festival,False
+1619,003E6R3,type 4,you will love the shichi go san,False
+1719,003E6R3,type 4,you will love the New Years Day,False
+1609,003E6R3,type 4,you can see the Nagasaki Kunchi Festival,False
+1642,003E6R3,type 4,you can enjoy the Hamamatsu Festival,False
+1643,003E6R3,type 4,you will love <maa> the Hamamatsu Festival,False
+1784,004E5T3,type 5,i play xylophone,False
+1813,004E5T3,type 5,i can wadaiko,False
+1802,004E5T3,type 5,i can play castanets,False
+1826,004E5T3,type 5,i can play the cymbal,False
+1818,004E5T3,type 5,i can vibraphone,False
+1825,004E5T3,type 5,let us play bell,False
+1763,004E5T3,type 5,i can guitar,False
+1804,004E5T3,type 5,i play castanets,False
+1839,004E5T3,type 5,i play melodica,False
+1787,004E5T3,type 5,i can play koto,False
+1758,004E5T3,type 5,i <maa> can drum,False
+1744,004E5T3,type 5,i play violin,False
+1742,004E5T3,type 5,i can play violin,False
+1768,004E5T3,type 5,i can harmonica,False
+1810,004E5T3,type 5,let us <ano> play castanet,False
+1831,004E5T3,type 5,i can play the organ,False
+1843,004E5T3,type 5,i can electronic <maa> piano,False
+1765,004E5T3,type 5,let us play guitar,False
+1815,004E5T3,type 5,let us play wadaiko <ano>,False
+1854,004E5T3,type 5,i play cymbals,False
+1814,004E5T3,type 5,i play wadaiko,False
+1793,004E5T3,type 5,i can hue,False
+1778,004E5T3,type 5,i can trianlge,False
+1737,004E5T3,type 5,i can play piano,False
+1836,004E5T3,type 5,i can play the melodica,False
+1791,004E5T3,type 5,i can play the hue,False
+1745,004E5T3,type 5,let us play violin,False
+1846,004E5T3,type 5,i can play the keyboard,False
+1771,004E5T3,type 5,i can play the tambourine,False
+1797,004E5T3,type 5,i can play accordion,False
+1776,004E5T3,type 5,i can play the trianlge,False
+1798,004E5T3,type 5,i can accordion,False
+1753,004E5T3,type 5,i can recorder,False
+2087,004E5R3,type 5,i like <eeto> playing Kite flying,False
+2092,004E5R3,type 5,i like playing Kite fly,False
+1892,004E5R3,type 5,i <maa> like playing cycling,False
+1913,004E5R3,type 5,my favorite sport is <eeto> hockey,False
+1932,004E5R3,type 5,i like playing marathon,False
+1867,004E5R3,type 5,i like playing athletics,False
+1956,004E5R3,type 5,i can play skating,False
+1991,004E5R3,type 5,i can play volleyball <maa>,False
+2061,004E5R3,type 5,i <eeto> can play snowboarding,False
+1866,004E5R3,type 5,i can play athletics,False
+2077,004E5R3,type 5,i like playing skateboard,False
+2029,004E5R3,type 5,i really like playing handball,False
+2007,004E5R3,type 5,i <ano> like playing jump rope,False
+1934,004E5R3,type 5,i really like playing marathon,False
+1912,004E5R3,type 5,i like playing hockey,False
+2046,004E5R3,type 5,i can play speed skating,False
+1868,004E5R3,type 5,my favorite sport is athletics,False
+2024,004E5R3,type 5,i really like playing futsal,False
+1893,004E5R3,type 5,my favorite sport is cycling,False
+2034,004E5R3,type 5,i really like playing dance,False
+1909,004E5R3,type 5,i really <maa> like playing football,False
+2026,004E5R3,type 5,i can play handball,False
+1962,004E5R3,type 5,i like playing soccer,False
+2082,004E5R3,type 5,i like playing windsurf,False
+1870,004E5R3,type 5,i love playing athletics,False
+1965,004E5R3,type 5,i love playing soccer,False
+2068,004E5R3,type 5,my favorite sport is takoage,False
+2051,004E5R3,type 5,i can play skateboarding,False
+1987,004E5R3,type 5,i like playing tennis,False
+2016,004E5R3,type 5,i can play tae kwon do,False
+1890,004E5R3,type 5,i love playing boxing,False
+1967,004E5R3,type 5,i like playing sumo,False
+2097,004E5R3,type 5,i like playing rollerskate,False
