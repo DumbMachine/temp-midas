@@ -6,6 +6,7 @@ let log = console.log.bind(console),
   gUMbtn = id('gUMbtn'),
   start = id('start'),
   stop = id('stop'),
+  recordAnimation = id('recording-indicator'),
   stream,
   recorder,
   counter=1,
@@ -24,6 +25,9 @@ gUMbtn.onclick = e => {
         }
       };
   media = mediaOptions.audio;
+  if ( media == null ){
+    alert("Could not connect to audio recorder");
+  }
   navigator.mediaDevices.getUserMedia(media.gUM).then(_stream => {
     stream = _stream;
     id('btns').style.display = 'inherit';
@@ -40,7 +44,7 @@ gUMbtn.style.display = 'none';
 }
 
 start.onclick = e => {
-  // id('recording').style.display = 'inline';
+  recordAnimation.style.display = 'inline';
   start.disabled = true;
   stop.removeAttribute('disabled');
   chunks=[];
@@ -50,6 +54,7 @@ start.onclick = e => {
 
 stop.onclick = e => {
   stop.disabled = true;
+  recordAnimation.style.display = 'none';
   recorder.stop();
   start.removeAttribute('disabled');
 }
@@ -58,7 +63,9 @@ stop.onclick = e => {
 
 function makeLink(){
   let uploadButton = document.createElement("BUTTON");
+  uploadButton.style.marginLeft = "13px"
   let downloadButton = document.createElement("BUTTON");
+  downloadButton.style.marginLeft = "13px"
   let blob = new Blob(chunks, {type: media.type })
   , url = URL.createObjectURL(blob)
   , li = document.createElement('li')
@@ -67,6 +74,9 @@ function makeLink(){
   
   ;
   mt.controls = true;
+  mt.style.display = 'block';
+  mt.style.marginTop = "15px"
+
   mt.src = url;
   hf.href = url;
   hf.download = `${counter++}${media.ext}`;

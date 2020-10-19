@@ -1,13 +1,13 @@
 index,QuestionID,Category,Sample Answer,Progress
-8,002E5T3,type 5,My birthday is May ninth,False
-14,002E5T3,type 5,My birthday is May fifteenth,False
+8,002E5T3,type 5,My birthday is May ninth,True
+14,002E5T3,type 5,My birthday is May fifteenth,True
 37,002E5T3,type 5,My birthday is 4th of July,False
 42,002E5T3,type 5,My birthday is 4th <ano> of December,False
 39,002E5T3,type 5,My birthday is 4th of September,False
 4,002E5T3,type 5,My birthday is <ano> May fifth,False
 25,002E5T3,type 5,My birthday is May twenty <eeto> sixth,False
 21,002E5T3,type 5,My birthday is May twenty second,False
-10,002E5T3,type 5,My birthday is May eleventh,False
+10,002E5T3,type 5,My birthday is May eleventh,True
 27,002E5T3,type 5,My birthday is May twenty eighth,False
 1,002E5T3,type 5,My birthday is May second,False
 13,002E5T3,type 5,My birthday is May fourteenth,False
