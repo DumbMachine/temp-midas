@@ -69,4 +69,4 @@ def imte_display(value):
     ) , 200
 
 if __name__ == "__main__":
-    app.run(port=9000, debug=True)
+    app.run(debug=True)
