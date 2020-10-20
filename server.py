@@ -1,6 +1,6 @@
 from pathlib import Path
 from config import Config
-from flask import Flask, render_template
+from flask import Flask, request, render_template
 
 def create_app():
     app = Flask(__name__, instance_relative_config=True)
@@ -26,47 +26,62 @@ def prepare_data():
     """
     import pandas as pd
     df = pd.read_csv(app.config["DATASET_LOCATION"])
-    if "Progress" not in df.columns:
-        df["Progress"] = False
+    if "Annotators" not in df.columns:
+        df["Annotators"] = "<start>"
         df.to_csv(app.config["DATASET_LOCATION"], header=True, index=False)
 
     return df
 
 df = prepare_data()
 
+# TODO: Skip on error
 @app.route("/receive", methods=["POST"])
 def receive():
     global df
 
     files = request.files.items()
     for _, file in files:
-        filename = file.filename
-        print(filename, _.title())
-        # print(dir(filename), _.title())
-        file.save(filename+".wav")
-            
-        df.loc[df['index'] == int(filename), "Progress"] = True
+        tempname = file.filename
+        file_itr, visitorId = tempname.split(",")
+        filename = Path(app.config["UPLOAD_FOLDER"])/f"{file_itr}-{visitorId}.wav"
+        file.save(str(filename))
+        # df.loc[df['index'] == int(filename), "Progress"] = True
+        temp = df.loc[df['index'] == int(file_itr), "Annotators"].values[0]
+        if visitorId not in temp:
+            df.loc[df['index'] == int(file_itr), "Annotators"] = temp + "," + visitorId
         df.to_csv(app.config["DATASET_LOCATION"], header=True, index=False)
 
     df = prepare_data()
 
     return "temp", 200
 
-@app.route("/")
-def front():
+@app.route("/home/<string:username>")
+def home(username):
     limit = 10
-    rows = []
+    done_rows = []
+    not_done_rows = []
 
     for _, row in df.iterrows():
-        if _ == limit:
+        if limit == 0:
             break
-        if row.Progress is False:
-            rows.append(row.values)
+        if username in row.Annotators:
+            done_rows.append(row.values)
+        else:
+            limit -= 1
+            not_done_rows.append(row.values)
 
     return render_template(
         "home.html", 
-        foobar=rows,
+        done_rows=done_rows,
+        not_done_rows=not_done_rows,
     ) , 200
+
+@app.route("/")
+def change_name():
+    return render_template(
+            "name.html", 
+        ) , 200
+
 
 @app.route("/item/<int:value>")
 def imte_display(value):
@@ -83,21 +98,11 @@ def imte_display(value):
         SampleAnswer=row['Sample Answer'],
         QuestionID=row['QuestionID'],
         Category=row['Category'],
-        Progress=row['Progress'],
         NextValue=value+1,
         PreviousValue=value-1
     ) , 200
 
-@app.route("/temp")
-def temp():
-    return render_template(
-        "temp.html"
-    ) , 200
-
 if __name__ == "__main__":
-    """
-    ExecStart=/home/ubuntu/microblog/venv/bin/gunicorn -b localhost:8000 -w 4 microblog:app
-    """
     try:
         run_with_ngrok
         app.run()

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Front Page</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <style>
+      li{
+        margin: 10px;
+      }
+      /* body{
+        width: 90%;
+        max-width: 960px;
+        margin: 10px auto;
+      } */
+      #btns{
+        display: none;
+      }
+      h1{
+        margin: 100px;
+      }
+    </style>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="/">
+        <img src="https://avatars2.githubusercontent.com/u/47926996?s=200&v=4" width="30" height="30" class="d-inline-block align-top" alt="">
+        Midas
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+          <a class="nav-item nav-link active" href="/">Home <span class="sr-only">(current)</span></a>
+          <a id="logged-username" class="nav-item nav-link" href="/">Logged in as: </a>
+        </div>
+      </div>
+    </nav>
+
+    <!-- <div 
+      id="user-name"
+      style="margin: 20px"
+      class="jumbotron bg-white"
+    >
+    <div class="input-group mb-3">
+      <div class="input-group-prepend">
+        <button id="usernameInput" class="btn btn-outline-secondary" type="button">Save Username</button>
+      </div>
+      <input id="usernametext" type="text" class="form-control">
+    </div>
+    </div> -->
+
+    <div class="jumbotron bg-white">
+      <h2>
+        Set username for session
+      </h2>
+      <input id="usernameInput" type="text" class="form-control input-normal" />
+      <br>
+      <button id="usernameBtn" type="button" class="btn btn-secondary">Submit</button>
+
+    </div>
+    <script>
+        function setCookie(name,value,days) {
+            var expires = "";
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime() + (days*24*60*60*1000));
+                expires = "; expires=" + date.toUTCString();
+            }
+            document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+        }
+        function getCookie(name) {
+            var nameEQ = name + "=";
+            var ca = document.cookie.split(';');
+            for(var i=0;i < ca.length;i++) {
+                var c = ca[i];
+                while (c.charAt(0)==' ') c = c.substring(1,c.length);
+                if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+            }
+            return null;
+        }
+        function eraseCookie(name) {   
+            document.cookie = name +'=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+        }
+        let id = val => document.getElementById(val);
+        let usernameBtn = id('usernameBtn')
+  
+        // check if username is already saved
+        username = getCookie("midas-username");
+        loggedUsername = id('logged-username');
+        loggedUsername.innerText = `Logged in as: ${username}`
+
+        usernameBtn.onclick = e => {
+            usernameInput = id('usernameInput')
+            username = usernameInput.value
+            console.log(username);
+            // set the username in the cookie
+            setCookie('midas-username', username,1);
+            // update the navbar
+            loggedUsername = id('logged-username');
+            loggedUsername.innerText = `Logged in as: ${username}`
+            window.location.href = `/home/${username}`
+        }
+    </script>
+<!-- jQuery and JS bundle w/ Popper.js -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+</body>
+</html>
