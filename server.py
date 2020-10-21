@@ -24,6 +24,13 @@ def get_db():
 
 app = create_app()
 
+try:
+    from flask_ngrok import run_with_ngrok
+    run_with_ngrok(app)  # Start ngrok when app is run
+except ImportError:
+    pass
+
+
 
 @app.route("/")
 def change_name():
@@ -164,4 +171,8 @@ def error_site():
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=6420, debug=True)
+    try:
+        run_with_ngrok
+        app.run()
+    except Exception:
+        app.run(host="0.0.0.0", port=6420, debug=True)
