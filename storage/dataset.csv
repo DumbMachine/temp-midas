@@ -1,443 +1,468 @@
-"index","QuestionID","Category","Sample Answer"
-"45","002E5T3","type 5","My birthday is May fifteenth"
-"64","002E5T3","type 5","My birthday <eeto> is 4th of March"
-"46","002E5T3","type 5","My birthday is May sixteenth"
-"51","002E5T3","type 5","My birthday is May twenty first"
-"6","002E5T3","type 5","My birthday is March seven"
-"29","002E5T3","type 5","My birthday is March thirty <ano>"
-"61","002E5T3","type 5","My birthday is May thirty first"
-"27","002E5T3","type 5","My birthday is March twenty eight"
-"8","002E5T3","type 5","My birthday is March nine"
-"22","002E5T3","type 5","My birthday is March twenty three"
-"21","002E5T3","type 5","My birthday is March twenty two"
-"4","002E5T3","type 5","My birthday is <ano> March five"
-"25","002E5T3","type 5","My birthday is March twenty <eeto> six"
-"63","002E5T3","type 5","My birthday is 4th of February"
-"52","002E5T3","type 5","My birthday is May twenty second"
-"69","002E5T3","type 5","My birthday is 4th of August"
-"18","002E5T3","type 5","My birthday is March nineteen"
-"70","002E5T3","type 5","My birthday is 4th of September"
-"59","002E5T3","type 5","My birthday is May twenty ninth"
-"35","002E5T3","type 5","My birthday is May fifth"
-"41","002E5T3","type 5","My birthday is May eleventh"
-"20","002E5T3","type 5","My birthday is March twenty one"
-"13","002E5T3","type 5","My birthday is March fourteen"
-"67","002E5T3","type 5","My birthday is 4th of June"
-"32","002E5T3","type 5","My birthday is <maa> May second"
-"31","002E5T3","type 5","My birthday is May first"
-"33","002E5T3","type 5","My birthday is <eeto> May third"
-"10","002E5T3","type 5","My birthday is March eleven"
-"55","002E5T3","type 5","My birthday is May twenty fifth"
-"7","002E5T3","type 5","My birthday is March eight"
-"36","002E5T3","type 5","My birthday is May <eeto> sixth"
-"14","002E5T3","type 5","My birthday is March fifteen"
-"17","002E5T3","type 5","My birthday is March eighteen"
-"84","003E5R3","type 5","i usually like tuesday"
-"115","003E5R3","type 5","i enjoy on sundays <ara>"
-"82","003E5R3","type 5","i love tuesday"
-"91","003E5R3","type 5","i enjoy <ano> on wednessdays"
-"110","003E5R3","type 5","i like sunday"
-"75","003E5R3","type 5","i like monday very much"
-"78","003E5R3","type 5","i usually <maa> like monday"
-"94","003E5R3","type 5","i love thursday <eeto>"
-"103","003E5R3","type 5","i enjoy on fridays"
-"95","003E5R3","type 5","i really like thursday"
-"87","003E5R3","type 5","i like wednessday very much"
-"88","003E5R3","type 5","i love wednessday"
-"99","003E5R3","type 5","i like friday very much"
-"74","003E5R3","type 5","i like monday"
-"85","003E5R3","type 5","i enjoy <ara> on tuesdays"
-"81","003E5R3","type 5","i like tuesday very much"
-"77","003E5R3","type 5","i really like monday"
-"80","003E5R3","type 5","i like tuesday"
-"76","003E5R3","type 5","i love monday"
-"101","003E5R3","type 5","i really like friday"
-"113","003E5R3","type 5","i really like sunday"
-"107","003E5R3","type 5","i really like saturday"
-"92","003E5R3","type 5","i like thursday"
-"111","003E5R3","type 5","i like sunday <ara> very much"
-"105","003E5R3","type 5","i like saturday very much"
-"83","003E5R3","type 5","i really like tuesday"
-"102","003E5R3","type 5","i usually like friday"
-"79","003E5R3","type 5","i enjoy on mondays"
-"90","003E5R3","type 5","i usually like wednessday"
-"114","003E5R3","type 5","i usually like sunday"
-"106","003E5R3","type 5","i love saturday"
-"96","003E5R3","type 5","i usually like thursday"
-"109","003E5R3","type 5","i enjoy on saturdays"
-"273","001E5T1","type 1","i <ano> want grapefruit"
-"261","001E5T1","type 1","i want watermelon"
-"241","001E5T1","type 1","i eat <ano> strawberries"
-"247","001E5T1","type 1","i eat strawberry"
-"262","001E5T1","type 1","i like watermelon very much"
-"211","001E5T1","type 1","i eat oranges"
-"281","001E5T1","type 1","i <ara> like berry fruit"
-"190","001E5T1","type 1","i like melon very much"
-"207","001E5T1","type 1","i want oranges"
-"155","001E5T1","type 1","i like grapes fruit"
-"193","001E5T1","type 1","i eat melon"
-"218","001E5T1","type 1","i like peaches"
-"147","001E5T1","type 1","i want cherry"
-"288","001E5T1","type 1","i am <eeto> berries"
-"283","001E5T1","type 1","i eat berry"
-"156","001E5T1","type 1","i am grapes"
-"125","001E5T1","type 1","i like apples fruit"
-"170","001E5T1","type 1","i like kiwis"
-"258","001E5T1","type 1","i am <maa> tomatoes"
-"195","001E5T1","type 1","i want melons"
-"165","001E5T1","type 1","i want kiwi"
-"159","001E5T1","type 1","i want grapes"
-"239","001E5T1","type 1","i like strawberries fruit"
-"293","001E5T1","type 1","i like persimmon fruit"
-"238","001E5T1","type 1","i like strawberries very much"
-"179","001E5T1","type 1","i like lemon fruit"
-"141","001E5T1","type 1","i <ara> want cherries"
-"175","001E5T1","type 1","i eat kiwis"
-"122","001E5T1","type 1","i like <ara> apples"
-"167","001E5T1","type 1","i like kiwi fruit"
-"145","001E5T1","type 1","i eat cherries"
-"237","001E5T1","type 1","i want strawberries"
-"265","001E5T1","type 1","i eat watermelon"
-"780","001E5T3","type 5","i love soba"
-"584","001E5T3","type 5","i like sausages"
-"703","001E5T3","type 5","i love eating kimchi"
-"572","001E5T3","type 5","i like sandwiches"
-"336","001E5T3","type 5","i love cakes"
-"779","001E5T3","type 5","i really like soba"
-"1068","001E5T3","type 5","i love <ano> gingerbread"
-"831","001E5T3","type 5","let us eat nan"
-"597","001E5T3","type 5","let <eeto> us eat snack"
-"1032","001E5T3","type 5","i love boiled vegetable <ano>"
-"712","001E5T3","type 5","my favorite food is miso soup"
-"522","001E5T3","type 5","i love <eeto> pizza"
-"940","001E5T3","type 5","my favorite food is pho"
-"678","001E5T3","type 5","i love cookie"
-"1064","001E5T3","type 5","i like gingerbread"
-"1011","001E5T3","type 5","let us eat yogurt"
-"1067","001E5T3","type 5","i really like gingerbread"
-"618","001E5T3","type 5","i love spaghetti"
-"501","001E5T3","type 5","let us eat parfaits <ara>"
-"986","001E5T3","type 5","i like cheese fondue"
-"694","001E5T3","type 5","my favorite food is hot dog"
-"640","001E5T3","type 5","my favorite food is foods"
-"537","001E5T3","type 5","let us eat pudding"
-"907","001E5T3","type 5","i love eating jiaozi"
-"429","001E5T3","type 5","let <ara> us eat fries"
-"456","001E5T3","type 5","i love ice cream"
-"702","001E5T3","type 5","i love kimchi <eeto>"
-"622","001E5T3","type 5","my <eeto> favorite food is steak"
-"615","001E5T3","type 5","let us eat spaghetti"
-"708","001E5T3","type 5","i love meatball"
-"829","001E5T3","type 5","i love eating mochi"
-"860","001E5T3","type 5","i like corokke <eeto>"
-"459","001E5T3","type 5","let us eat jam"
-"1104","001E5R3","type 5","i really like cross"
-"1114","001E5R3","type 5","i really like square"
-"1115","001E5R3","type 5","i draw square"
-"1090","001E5R3","type 5","i draw heart"
-"1088","001E5R3","type 5","i love heart"
-"1138","001E5R3","type 5","i love trapezoid"
-"1122","001E5R3","type 5","i like <ara> round"
-"1102","001E5R3","type 5","i like cross"
-"1086","001E5R3","type 5","you draw star"
-"1103","001E5R3","type 5","i love cross"
-"1132","001E5R3","type 5","i like pentagon"
-"1136","001E5R3","type 5","you <maa> draw pentagon"
-"1111","001E5R3","type 5","you draw triangle"
-"1100","001E5R3","type 5","i draw circle"
-"1127","001E5R3","type 5","i like oval"
-"1137","001E5R3","type 5","i like trapezoid"
-"1118","001E5R3","type 5","i love rectangle"
-"1095","001E5R3","type 5","i draw diamond"
-"1107","001E5R3","type 5","i like triangle"
-"1140","001E5R3","type 5","i draw trapezoid"
-"1146","001E5R3","type 5","you draw hexagon"
-"1092","001E5R3","type 5","i like diamond"
-"1089","001E5R3","type 5","i <maa> really like heart"
-"1109","001E5R3","type 5","i <eeto> really like triangle"
-"1096","001E5R3","type 5","you draw diamond"
-"1099","001E5R3","type 5","i really <eeto> like circle"
-"1128","001E5R3","type 5","i love oval"
-"1113","001E5R3","type 5","i love square"
-"1117","001E5R3","type 5","i like rectangle"
-"1083","001E5R3","type 5","i love star <eeto>"
-"1124","001E5R3","type 5","i really like round"
-"1145","001E5R3","type 5","i draw hexagon"
-"1084","001E5R3","type 5","i really like <ara> star"
-"1218","001E5R1","type 2","i see golden color"
-"1198","001E5R1","type 2","my favorite color is yellow"
-"1214","001E5R1","type 2","i love golden"
-"1206","001E5R1","type 2","i see pink color"
-"1182","001E5R1","type 2","i see purple color"
-"1219","001E5R1","type 2","i like violet <ara>"
-"1180","001E5R1","type 2","my favorite color is purple"
-"1210","001E5R1","type 2","my favorite color is silver"
-"1157","001E5R1","type 2","i love the <ano> blue color"
-"1208","001E5R1","type 2","i love silver"
-"1212","001E5R1","type 2","i see silver color"
-"1168","001E5R1","type 2","my favorite color is green"
-"1202","001E5R1","type 2","i love pink"
-"1151","001E5R1","type 2","i love <maa> the black color"
-"1193","001E5R1","type 2","i love the white color"
-"1174","001E5R1","type 2","my favorite color <eeto> is orange "
-"1187","001E5R1","type 2","i love the red color"
-"1213","001E5R1","type 2","i like golden"
-"1201","001E5R1","type 2","i like pink"
-"1215","001E5R1","type 2","i love wearing golden"
-"1165","001E5R1","type 2","i like green"
-"1192","001E5R1","type 2","my favorite color is white"
-"1225","001E5R1","type 2","i like gold <maa>"
-"1228","001E5R1","type 2","my favorite color is gold"
-"1191","001E5R1","type 2","i love wearing white <ano>"
-"1169","001E5R1","type 2","i love the green color"
-"1176","001E5R1","type 2","i see orange  color"
-"1153","001E5R1","type 2","i like blue"
-"1211","001E5R1","type 2","i love the silver color"
-"1226","001E5R1","type 2","i love gold"
-"1155","001E5R1","type 2","i love wearing blue"
-"1156","001E5R1","type 2","my favorite color is blue"
-"1203","001E5R1","type 2","i love wearing pink"
-"1233","005E6T2","type 1","i usually play soccer"
-"1232","005E6T2","type 1","i usually watch tv"
-"1237","005E6T2","type 1","i enjoy cooking"
-"1231","005E6T2","type 1","i usually cook"
-"1235","005E6T2","type 1","help my mother"
-"1236","005E6T2","type 1","help my father"
-"1234","005E6T2","type 1","playing soccer <ara>"
-"1278","001E5R2","type 2","my name is Miyu M I Y <ara> U"
-"1273","001E5R2","type 2","i spell my name as A Y A Aya"
-"1319","001E5R2","type 2","i spell my name as S H I N J I Shinji"
-"1299","001E5R2","type 2","i spell my name as K E N Ken <ano>"
-"1336","001E5R2","type 2","my name is Yuta Y U T A"
-"1306","001E5R2","type 2","my name is Shota S H O T A"
-"1323","001E5R2","type 2","i spell my name as Y U M A Yuma"
-"1265","001E5R2","type 2","i spell my name as M I H O Miho"
-"1277","001E5R2","type 2","i spell my name as K A N A K O Kanako"
-"1280","001E5R2","type 2","my name is Mai M A I"
-"1271","001E5R2","type 2","i spell my name <maa> as K A O R I Kaori"
-"1297","001E5R2","type 2","i spell my name as S H U N Shun"
-"1301","001E5R2","type 2","i spell my name as N A O K I Naoki"
-"1332","001E5R2","type 2","my name is Tatsuya T A T S U Y A"
-"1294","001E5R2","type 2","my <eeto> name is Kazu K A Z U"
-"1325","001E5R2","type 2","i spell my name as D A I K I Daiki"
-"1334","001E5R2","type 2","my name is Kaito K <ara> A I T O"
-"1239","001E5R2","type 2","i spell my name as Y U K A Yuka"
-"1309","001E5R2","type 2","i spell my name as K E I T A Keita"
-"1320","001E5R2","type 2","my name is Takumi T A K U M I"
-"1247","001E5R2","type 2","i spell my name as S A K I Saki"
-"1289","001E5R2","type 2","i spell my name as Y U K I Yuki"
-"1267","001E5R2","type 2","i spell my name as M I N A M I Minami"
-"1326","001E5R2","type 2","my name <ano> is Naoya N A O Y A"
-"1313","001E5R2","type 2","i spell my name as T A K A Taka <eeto>"
-"1312","001E5R2","type 2","my name is Taka T A K A"
-"1300","001E5R2","type 2","my name is Naoki N A O K I"
-"1304","001E5R2","type 2","my name is Kazuki K <ara> A Z U K <ara> I"
-"1317","001E5R2","type 2","i spell my name as H I R O Hiro"
-"1286","001E5R2","type 2","my name is Nana N A N A"
-"1242","001E5R2","type 2","my name is Yuki Y U K I"
-"1302","001E5R2","type 2","my name is Takuya T A K U Y A"
-"1248","001E5R2","type 2","my name is Yui Y U I"
-"1348","001E6R3","type 4","i go to my bed at 4 a m"
-"1379","001E6R3","type 4","i go to bed in midnight"
-"1346","001E6R3","type 4","i go to bed usually after 3"
-"1355","001E6R3","type 4","i go to bed usually after 6"
-"1374","001E6R3","type 4","i go to bed in morning"
-"1339","001E6R3","type 4","i go to my bed at 1 a m"
-"1342","001E6R3","type 4","i go to my bed at 2 a m"
-"1358","001E6R3","type 4","i go to bed usually after 7"
-"1367","001E6R3","type 4","i go to bed usually after 10"
-"1359","001E6R3","type 4","i <eeto> go to bed at 8 p m"
-"1351","001E6R3","type 4","i go to my bed at <eeto> 5 a m"
-"1352","001E6R3","type 4","i go to bed usually after 5"
-"1363","001E6R3","type 4","i go to my bed at 9 a m"
-"1338","001E6R3","type 4","i go to <maa> bed at 1 p m"
-"1349","001E6R3","type 4","i go to bed usually after 4"
-"1345","001E6R3","type 4","i go to my <eeto> bed at 3 a m"
-"1341","001E6R3","type 4","i go to bed at <ara> 2 p m"
-"1344","001E6R3","type 4","i go to bed at 3 p m"
-"1340","001E6R3","type 4","i go to bed usually after 1"
-"1365","001E6R3","type 4","i go to bed at 10 p m"
-"1377","001E6R3","type 4","i go to bed in evening"
-"1371","001E6R3","type 4","i go to bed at 12 p <ano> m"
-"1356","001E6R3","type 4","i go to bed at 7 p m"
-"1375","001E6R3","type 4","i go to bed in noon"
-"1369","001E6R3","type 4","i go to my bed at 11 a m"
-"1347","001E6R3","type 4","i go to bed at 4 p <eeto> m"
-"1366","001E6R3","type 4","i go to my bed at 10 a m"
-"1343","001E6R3","type 4","i go to bed usually after 2"
-"1354","001E6R3","type 4","i go to my bed at <ano> 6 a m"
-"1378","001E6R3","type 4","i go to bed in night"
-"1370","001E6R3","type 4","i go to bed usually after 11"
-"1360","001E6R3","type 4","i go to my bed at 8 a m"
-"1373","001E6R3","type 4","i go to bed usually after 12"
-"1382","005E6R2","type 4","i do swimming"
-"1381","005E6R2","type 4","i do the swimming"
-"1385","005E6R2","type 4","i play the "
-"1380","005E6R2","type 4","i usually do my homework"
-"1384","005E6R2","type 4","i read"
-"1383","005E6R2","type 4","i draw pictures"
-"1459","002E6T2","type 2","i love to visit Ghana"
-"1494","002E6T2","type 2","i <maa> love to visit Korea"
-"1655","002E6T2","type 2","i go to United Kingdom"
-"1498","002E6T2","type 2","i want to visit Laos"
-"1497","002E6T2","type 2","i would like to go to Laos <eeto>"
-"1508","002E6T2","type 2","i want to visit Mongolia"
-"1543","002E6T2","type 2","i want to visit Singapore"
-"1549","002E6T2","type 2","i love to visit Spain"
-"1679","002E6T2","type 2","i love to visit Indonesia"
-"1669","002E6T2","type 2","i love to visit South Africa"
-"1523","002E6T2","type 2","i want to visit Peru"
-"1657","002E6T2","type 2","i would like to go to Rwanda"
-"1452","002E6T2","type 2","i would like to go to Germany"
-"1455","002E6T2","type 2","i go to Germany <ara>"
-"1486","002E6T2","type 2","i want to go to Kenya"
-"1393","002E6T2","type 2","i want to visit Argentina"
-"1664","002E6T2","type 2","i love to visit Paraguay"
-"1562","002E6T2","type 2","i would like to go to The United Kingdom"
-"1556","002E6T2","type 2","i want to go to The UK"
-"1496","002E6T2","type 2","i want to go to Laos"
-"1548","002E6T2","type 2","i want to visit Spain"
-"1485","002E6T2","type 2","i <maa> go to Japan"
-"1426","002E6T2","type 2","i want to go to Denmark"
-"1392","002E6T2","type 2","i would like to go to Argentina"
-"1408","002E6T2","type 2","i want to visit Bolivia"
-"1488","002E6T2","type 2","i want to visit Kenya"
-"1630","002E6T2","type 2","i go to New Zealand"
-"1492","002E6T2","type 2","i would like to go to Korea"
-"1615","002E6T2","type 2","i go <eeto> to Papua New Guinea"
-"1517","002E6T2","type 2","i would like to go to Oman"
-"1490","002E6T2","type 2","i go to Kenya"
-"1527","002E6T2","type 2","i <eeto> would like to go to Qatar"
-"1634","002E6T2","type 2","i love to visit Iceland"
-"1868","003E5T3","type 5","i love crafts "
-"1860","003E5T3","type 5","i read the period for integrated studies"
-"1712","003E5T3","type 5","i love debate"
-"1733","003E5T3","type 5","i study <eeto> history"
-"1752","003E5T3","type 5","i read information"
-"1687","003E5T3","type 5","i like arts and crafts"
-"1776","003E5T3","type 5","i read moral education"
-"1812","003E5T3","type 5","i read science"
-"1838","003E5T3","type 5","i love living environment studies"
-"1686","003E5T3","type 5","i read art"
-"1905","003E5T3","type 5","i like reading career education"
-"1815","003E5T3","type 5","i like <ano> reading social studies"
-"1828","003E5T3","type 5","i love study philosophy"
-"1754","003E5T3","type 5","i love Japanese <ara>"
-"1732","003E5T3","type 5","i love study history"
-"1841","003E5T3","type 5","i study living environment studies"
-"1688","003E5T3","type 5","i love arts <eeto> and crafts"
-"1845","003E5T3","type 5","i like reading art and handcraft"
-"1713","003E5T3","type 5","i like reading debate"
-"1900","003E5T3","type 5","i love study special activity"
-"1729","003E5T3","type 5","i like history"
-"1825","003E5T3","type 5","i like philosophy"
-"1782","003E5T3","type 5","i read moral training <maa>"
-"1907","003E5T3","type 5","i study <ara> career education"
-"1690","003E5T3","type 5","i love study arts and crafts"
-"1785","003E5T3","type 5","i like reading music"
-"1925","003E5T3","type 5","i study programming"
-"1873","003E5T3","type 5","i like industrial arts and home economics "
-"1807","003E5T3","type 5","i like science"
-"1920","003E5T3","type 5","i read robotics"
-"1710","003E5T3","type 5","i read chemisty <ano>"
-"1787","003E5T3","type 5","i study music"
-"1923","003E5T3","type 5","i like reading programming"
-"1956","003E6R3","type 4","you can see the Nagoya Festival"
-"2071","003E6R3","type 4","we have Sappro Snow Festival"
-"2018","003E6R3","type 4","you will love the bon odori"
-"1984","003E6R3","type 4","you can see the Hamamatsu Festival"
-"1990","003E6R3","type 4","you will love the hana matsuri"
-"2036","003E6R3","type 4","you can see <ara> the summer festival"
-"1954","003E6R3","type 4","you <ara> will love the Nagasaki Kunchi Festival"
-"1933","003E6R3","type 4","you can enjoy the <ano> full moon viewing"
-"2044","003E6R3","type 4","you can see the Chichibu Night <maa> Festival"
-"1975","003E6R3","type 4","we have Doll Festival"
-"2020","003E6R3","type 4","you can see the fireworks"
-"2031","003E6R3","type 4","we have <ara> star festival"
-"1967","003E6R3","type 4","we have April Fools Day"
-"1978","003E6R3","type 4","you will love the Doll <eeto> Festival"
-"2006","003E6R3","type 4","you will love the Spring Festival"
-"2004","003E6R3","type 4","you can see the Spring Festival"
-"1938","003E6R3","type 4","you will love the Halloween"
-"2030","003E6R3","type 4","you will love the Nebuta Festival"
-"2029","003E6R3","type 4","you can enjoy <ano> the Nebuta Festival"
-"2021","003E6R3","type 4","you can enjoy the fireworks"
-"1944","003E6R3","type 4","you can see <ara> the Moon Festival"
-"2067","003E6R3","type 4","we have oshogatsu"
-"1981","003E6R3","type 4","you can enjoy the Dolls Festival"
-"2015","003E6R3","type 4","we have <ara> bon odori"
-"2009","003E6R3","type 4","you <eeto> can enjoy the Awa Odori"
-"1970","003E6R3","type 4","you will love the April Fools Day"
-"2037","003E6R3","type 4","you <maa> can enjoy the summer festival"
-"2025","003E6R3","type 4","you can enjoy the Kanda Festival"
-"1962","003E6R3","type 4","you will love the shichi go san"
-"2062","003E6R3","type 4","you will love the New Years Day"
-"1952","003E6R3","type 4","you can see the Nagasaki Kunchi Festival"
-"1985","003E6R3","type 4","you can enjoy the Hamamatsu Festival"
-"1986","003E6R3","type 4","you will love the Hamamatsu Festival"
-"2127","004E5T3","type 5","i play xylophone"
-"2156","004E5T3","type 5","i <ano> can wadaiko"
-"2145","004E5T3","type 5","i can <ano> play castanets"
-"2169","004E5T3","type 5","i can play the cymbal"
-"2161","004E5T3","type 5","i can vibraphone"
-"2168","004E5T3","type 5","let us play bell"
-"2106","004E5T3","type 5","i can guitar"
-"2147","004E5T3","type 5","i play castanets"
-"2182","004E5T3","type 5","i play melodica"
-"2130","004E5T3","type 5","i can play koto"
-"2101","004E5T3","type 5","i can drum"
-"2087","004E5T3","type 5","i play violin"
-"2085","004E5T3","type 5","i can play violin"
-"2111","004E5T3","type 5","i can harmonica"
-"2153","004E5T3","type 5","let us play castanet"
-"2174","004E5T3","type 5","i can play the organ"
-"2186","004E5T3","type 5","i can electronic piano"
-"2108","004E5T3","type 5","let us play guitar"
-"2158","004E5T3","type 5","let us play wadaiko"
-"2197","004E5T3","type 5","i play cymbals"
-"2157","004E5T3","type 5","i play wadaiko"
-"2136","004E5T3","type 5","i can <ano> hue"
-"2121","004E5T3","type 5","i can trianlge <ara>"
-"2080","004E5T3","type 5","i can play piano"
-"2179","004E5T3","type 5","i can play the melodica"
-"2134","004E5T3","type 5","i can <ano> play the hue"
-"2088","004E5T3","type 5","let us play violin"
-"2189","004E5T3","type 5","i can play the keyboard"
-"2114","004E5T3","type 5","i can play the tambourine <eeto>"
-"2140","004E5T3","type 5","i can play accordion"
-"2119","004E5T3","type 5","i can play the trianlge <eeto>"
-"2141","004E5T3","type 5","i <eeto> can accordion"
-"2096","004E5T3","type 5","i <maa> can recorder"
-"2270","004E5R3","type 5","i like playing fence"
-"2398","004E5R3","type 5","i love playing surf"
-"2537","004E5R3","type 5","i really like playing road relay"
-"2684","004E5R3","type 5","i can play Kite flying"
-"2694","004E5R3","type 5","i can play rollerskate"
-"2682","004E5R3","type 5","i really like playing sport kite"
-"2296","004E5R3","type 5","my favorite sport is gymnastics"
-"2583","004E5R3","type 5","i love playing <maa> para swimming"
-"2263","004E5R3","type 5","i love playing discus"
-"2511","004E5R3","type 5","my favorite sport is tae kwon do"
-"2315","004E5R3","type 5","i like playing kayaking"
-"2470","004E5R3","type 5","i <maa> like playing jump rope"
-"2606","004E5R3","type 5","my favorite sport is wheelchair fencing"
-"2672","004E5R3","type 5","i really like playing snowboard"
-"2528","004E5R3","type 5","i love playing dance <eeto>"
-"2596","004E5R3","type 5","my favorite sport is takoage"
-"2211","004E5R3","type 5","my favorite sport is athletics"
-"2429","004E5R3","type 5","i can play volleyball"
-"2274","004E5R3","type 5","i can play fencing"
-"2268","004E5R3","type 5","i love playing dodgeball"
-"2525","004E5R3","type 5","i like playing dance"
-"2215","004E5R3","type 5","i like playing badminton"
-"2231","004E5R3","type 5","my favorite sport is boxing"
-"2451","004E5R3","type 5","my favorite sport is skiing"
-"2637","004E5R3","type 5","i really like playing scuba dive"
-"2605","004E5R3","type 5","i like playing wheelchair fencing"
-"2395","004E5R3","type 5","i like playing surf"
-"2573","004E5R3","type 5","i love playing windsurfing"
-"2484","004E5R3","type 5","i <ara> can play jog"
-"2457","004E5R3","type 5","i really like playing cricket <eeto>"
-"2592","004E5R3","type 5","i really like playing wheelchair marathon"
-"2602","004E5R3","type 5","i really like playing synchronized swim"
-"2491","004E5R3","type 5","my favorite sport is wheelchair basketball"
+index,QuestionID,Category,Sample Answer,Annotators
+1,002E5T3,type 5,My birthday is May fifteenth,"<start>,Ratin,MeharB,User1"
+2,002E5T3,type 5,My birthday <eeto> is 4th of March,"<start>,Ratin,MeharB"
+3,002E5T3,type 5,My birthday is May sixteenth,"<start>,Ratin,MeharB,mohitSecondTest"
+4,002E5T3,type 5,My birthday is May twenty first,"<start>,MeharB,Ratin"
+5,002E5T3,type 5,My birthday is March seven,"<start>,MeharB,Ratin"
+6,002E5T3,type 5,My birthday is March thirty <ano>,<start>
+7,002E5T3,type 5,My birthday is May thirty first,<start>
+8,002E5T3,type 5,My birthday is March twenty eight,<start>
+9,002E5T3,type 5,My birthday is March nine,<start>
+10,002E5T3,type 5,My birthday is March twenty three,<start>
+11,002E5T3,type 5,My birthday is March twenty two,<start>
+12,002E5T3,type 5,My birthday is <ano> March five,<start>
+13,002E5T3,type 5,My birthday is March twenty <eeto> six,<start>
+14,002E5T3,type 5,My birthday is 4th of February,<start>
+15,002E5T3,type 5,My birthday is May twenty second,<start>
+16,002E5T3,type 5,My birthday is 4th of August,"<start>,mohitFinalTest"
+17,002E5T3,type 5,My birthday is March nineteen,<start>
+18,002E5T3,type 5,My birthday is 4th of September,<start>
+19,002E5T3,type 5,My birthday is May twenty ninth,<start>
+20,002E5T3,type 5,My birthday is May fifth,<start>
+21,002E5T3,type 5,My birthday is May eleventh,<start>
+22,002E5T3,type 5,My birthday is March twenty one,<start>
+23,002E5T3,type 5,My birthday is March fourteen,<start>
+24,002E5T3,type 5,My birthday is 4th of June,<start>
+25,002E5T3,type 5,My birthday is <maa> May second,<start>
+26,002E5T3,type 5,My birthday is May first,<start>
+27,002E5T3,type 5,My birthday is <eeto> May third,<start>
+28,002E5T3,type 5,My birthday is March eleven,<start>
+29,002E5T3,type 5,My birthday is May twenty fifth,<start>
+30,002E5T3,type 5,My birthday is March eight,<start>
+31,002E5T3,type 5,My birthday is May <eeto> sixth,<start>
+32,002E5T3,type 5,My birthday is March fifteen,<start>
+33,002E5T3,type 5,My birthday is March eighteen,<start>
+34,003E5R3,type 5,i usually like tuesday,<start>
+35,003E5R3,type 5,i enjoy on sundays <ara>,<start>
+36,003E5R3,type 5,i love tuesday,<start>
+37,003E5R3,type 5,i enjoy <ano> on wednessdays,<start>
+38,003E5R3,type 5,i like sunday,<start>
+39,003E5R3,type 5,i like monday very much,<start>
+40,003E5R3,type 5,i usually <maa> like monday,<start>
+41,003E5R3,type 5,i love thursday <eeto>,<start>
+42,003E5R3,type 5,i enjoy on fridays,<start>
+43,003E5R3,type 5,i really like thursday,<start>
+44,003E5R3,type 5,i like wednessday very much,<start>
+45,003E5R3,type 5,i love wednessday,<start>
+46,003E5R3,type 5,i like friday very much,<start>
+47,003E5R3,type 5,i like monday,<start>
+48,003E5R3,type 5,i enjoy <ara> on tuesdays,<start>
+49,003E5R3,type 5,i like tuesday very much,<start>
+50,003E5R3,type 5,i really like monday,<start>
+51,003E5R3,type 5,i like tuesday,<start>
+52,003E5R3,type 5,i love monday,<start>
+53,003E5R3,type 5,i really like friday,<start>
+54,003E5R3,type 5,i really like sunday,<start>
+55,003E5R3,type 5,i really like saturday,<start>
+56,003E5R3,type 5,i like thursday,<start>
+57,003E5R3,type 5,i like sunday <ara> very much,<start>
+58,003E5R3,type 5,i like saturday very much,<start>
+59,003E5R3,type 5,i really like tuesday,<start>
+60,003E5R3,type 5,i usually like friday,<start>
+61,003E5R3,type 5,i enjoy on mondays,<start>
+62,003E5R3,type 5,i usually like wednessday,<start>
+63,003E5R3,type 5,i usually like sunday,<start>
+64,003E5R3,type 5,i love saturday,<start>
+65,003E5R3,type 5,i usually like thursday,<start>
+66,003E5R3,type 5,i enjoy on saturdays,<start>
+67,001E5T1,type 1,i <ano> want grapefruit,<start>
+68,001E5T1,type 1,i want watermelon,<start>
+69,001E5T1,type 1,i eat <ano> strawberries,<start>
+70,001E5T1,type 1,i eat strawberry,<start>
+71,001E5T1,type 1,i like watermelon very much,<start>
+72,001E5T1,type 1,i eat oranges,<start>
+73,001E5T1,type 1,i <ara> like berry fruit,<start>
+74,001E5T1,type 1,i like melon very much,<start>
+75,001E5T1,type 1,i want oranges,<start>
+76,001E5T1,type 1,i like grapes fruit,<start>
+77,001E5T1,type 1,i eat melon,<start>
+78,001E5T1,type 1,i like peaches,<start>
+79,001E5T1,type 1,i want cherry,<start>
+80,001E5T1,type 1,i am <eeto> berries,<start>
+81,001E5T1,type 1,i eat berry,<start>
+82,001E5T1,type 1,i am grapes,<start>
+83,001E5T1,type 1,i like apples fruit,<start>
+84,001E5T1,type 1,i like kiwis,<start>
+85,001E5T1,type 1,i am <maa> tomatoes,<start>
+86,001E5T1,type 1,i want melons,<start>
+87,001E5T1,type 1,i want kiwi,<start>
+88,001E5T1,type 1,i want grapes,<start>
+89,001E5T1,type 1,i like strawberries fruit,<start>
+90,001E5T1,type 1,i like persimmon fruit,<start>
+91,001E5T1,type 1,i like strawberries very much,<start>
+92,001E5T1,type 1,i like lemon fruit,<start>
+93,001E5T1,type 1,i <ara> want cherries,<start>
+94,001E5T1,type 1,i eat kiwis,<start>
+95,001E5T1,type 1,i like <ara> apples,<start>
+96,001E5T1,type 1,i like kiwi fruit,<start>
+97,001E5T1,type 1,i eat cherries,<start>
+98,001E5T1,type 1,i want strawberries,<start>
+99,001E5T1,type 1,i eat watermelon,<start>
+100,001E5T3,type 5,i love soba,<start>
+101,001E5T3,type 5,i like sausages,<start>
+102,001E5T3,type 5,i love eating kimchi,<start>
+103,001E5T3,type 5,i like sandwiches,<start>
+104,001E5T3,type 5,i love cakes,<start>
+105,001E5T3,type 5,i really like soba,<start>
+106,001E5T3,type 5,i love <ano> gingerbread,<start>
+107,001E5T3,type 5,let us eat nan,<start>
+108,001E5T3,type 5,let <eeto> us eat snack,<start>
+109,001E5T3,type 5,i love boiled vegetable <ano>,<start>
+110,001E5T3,type 5,my favorite food is miso soup,<start>
+111,001E5T3,type 5,i love <eeto> pizza,<start>
+112,001E5T3,type 5,my favorite food is pho,<start>
+113,001E5T3,type 5,i love cookie,<start>
+114,001E5T3,type 5,i like gingerbread,<start>
+115,001E5T3,type 5,let us eat yogurt,<start>
+116,001E5T3,type 5,i really like gingerbread,<start>
+117,001E5T3,type 5,i love spaghetti,<start>
+118,001E5T3,type 5,let us eat parfaits <ara>,<start>
+119,001E5T3,type 5,i like cheese fondue,<start>
+120,001E5T3,type 5,my favorite food is hot dog,<start>
+121,001E5T3,type 5,my favorite food is foods,<start>
+122,001E5T3,type 5,let us eat pudding,<start>
+123,001E5T3,type 5,i love eating jiaozi,<start>
+124,001E5T3,type 5,let <ara> us eat fries,<start>
+125,001E5T3,type 5,i love ice cream,<start>
+126,001E5T3,type 5,i love kimchi <eeto>,<start>
+127,001E5T3,type 5,my <eeto> favorite food is steak,<start>
+128,001E5T3,type 5,let us eat spaghetti,<start>
+129,001E5T3,type 5,i love meatball,<start>
+130,001E5T3,type 5,i love eating mochi,<start>
+131,001E5T3,type 5,i like corokke <eeto>,<start>
+132,001E5T3,type 5,let us eat jam,<start>
+133,001E5R3,type 5,i really like cross,<start>
+134,001E5R3,type 5,i really like square,<start>
+135,001E5R3,type 5,i draw square,<start>
+136,001E5R3,type 5,i draw heart,<start>
+137,001E5R3,type 5,i love heart,<start>
+138,001E5R3,type 5,i love trapezoid,<start>
+139,001E5R3,type 5,i like <ara> round,<start>
+140,001E5R3,type 5,i like cross,<start>
+141,001E5R3,type 5,you draw star,<start>
+142,001E5R3,type 5,i love cross,<start>
+143,001E5R3,type 5,i like pentagon,<start>
+144,001E5R3,type 5,you <maa> draw pentagon,<start>
+145,001E5R3,type 5,you draw triangle,<start>
+146,001E5R3,type 5,i draw circle,<start>
+147,001E5R3,type 5,i like oval,<start>
+148,001E5R3,type 5,i like trapezoid,<start>
+149,001E5R3,type 5,i love rectangle,<start>
+150,001E5R3,type 5,i draw diamond,<start>
+151,001E5R3,type 5,i like triangle,<start>
+152,001E5R3,type 5,i draw trapezoid,<start>
+153,001E5R3,type 5,you draw hexagon,<start>
+154,001E5R3,type 5,i like diamond,<start>
+155,001E5R3,type 5,i <maa> really like heart,<start>
+156,001E5R3,type 5,i <eeto> really like triangle,<start>
+157,001E5R3,type 5,you draw diamond,<start>
+158,001E5R3,type 5,i really <eeto> like circle,<start>
+159,001E5R3,type 5,i love oval,<start>
+160,001E5R3,type 5,i love square,<start>
+161,001E5R3,type 5,i like rectangle,<start>
+162,001E5R3,type 5,i love star <eeto>,<start>
+163,001E5R3,type 5,i really like round,<start>
+164,001E5R3,type 5,i draw hexagon,<start>
+165,001E5R3,type 5,i really like <ara> star,<start>
+166,001E5R1,type 2,i see golden color,<start>
+167,001E5R1,type 2,my favorite color is yellow,<start>
+168,001E5R1,type 2,i love golden,<start>
+169,001E5R1,type 2,i see pink color,<start>
+170,001E5R1,type 2,i see purple color,<start>
+171,001E5R1,type 2,i like violet <ara>,<start>
+172,001E5R1,type 2,my favorite color is purple,<start>
+173,001E5R1,type 2,my favorite color is silver,<start>
+174,001E5R1,type 2,i love the <ano> blue color,<start>
+175,001E5R1,type 2,i love silver,<start>
+176,001E5R1,type 2,i see silver color,<start>
+177,001E5R1,type 2,my favorite color is green,<start>
+178,001E5R1,type 2,i love pink,<start>
+179,001E5R1,type 2,i love <maa> the black color,<start>
+180,001E5R1,type 2,i love the white color,<start>
+181,001E5R1,type 2,my favorite color <eeto> is orange ,<start>
+182,001E5R1,type 2,i love the red color,<start>
+183,001E5R1,type 2,i like golden,<start>
+184,001E5R1,type 2,i like pink,<start>
+185,001E5R1,type 2,i love wearing golden,<start>
+186,001E5R1,type 2,i like green,<start>
+187,001E5R1,type 2,my favorite color is white,<start>
+188,001E5R1,type 2,i like gold <maa>,<start>
+189,001E5R1,type 2,my favorite color is gold,<start>
+190,001E5R1,type 2,i love wearing white <ano>,<start>
+191,001E5R1,type 2,i love the green color,<start>
+192,001E5R1,type 2,i see orange  color,<start>
+193,001E5R1,type 2,i like blue,<start>
+194,001E5R1,type 2,i love the silver color,<start>
+195,001E5R1,type 2,i love gold,<start>
+196,001E5R1,type 2,i love wearing blue,<start>
+197,001E5R1,type 2,my favorite color is blue,<start>
+198,001E5R1,type 2,i love wearing pink,<start>
+199,005E6T2,type 1,i usually play soccer,<start>
+200,005E6T2,type 1,i usually watch tv,<start>
+201,005E6T2,type 1,i enjoy cooking,<start>
+202,005E6T2,type 1,i usually cook,<start>
+203,005E6T2,type 1,help my mother,<start>
+204,005E6T2,type 1,help my father,<start>
+205,005E6T2,type 1,playing soccer <ara>,<start>
+206,001E5R2,type 2,my name is Miyu M I Y <ara> U,<start>
+207,001E5R2,type 2,i spell my name as A Y A Aya,<start>
+208,001E5R2,type 2,i spell my name as S H I N J I Shinji,<start>
+209,001E5R2,type 2,i spell my name as K E N Ken <ano>,<start>
+210,001E5R2,type 2,my name is Yuta Y U T A,<start>
+211,001E5R2,type 2,my name is Shota S H O T A,<start>
+212,001E5R2,type 2,i spell my name as Y U M A Yuma,<start>
+213,001E5R2,type 2,i spell my name as M I H O Miho,<start>
+214,001E5R2,type 2,i spell my name as K A N A K O Kanako,<start>
+215,001E5R2,type 2,my name is Mai M A I,<start>
+216,001E5R2,type 2,i spell my name <maa> as K A O R I Kaori,<start>
+217,001E5R2,type 2,i spell my name as S H U N Shun,<start>
+218,001E5R2,type 2,i spell my name as N A O K I Naoki,<start>
+219,001E5R2,type 2,my name is Tatsuya T A T S U Y A,<start>
+220,001E5R2,type 2,my <eeto> name is Kazu K A Z U,<start>
+221,001E5R2,type 2,i spell my name as D A I K I Daiki,<start>
+222,001E5R2,type 2,my name is Kaito K <ara> A I T O,<start>
+223,001E5R2,type 2,i spell my name as Y U K A Yuka,<start>
+224,001E5R2,type 2,i spell my name as K E I T A Keita,<start>
+225,001E5R2,type 2,my name is Takumi T A K U M I,<start>
+226,001E5R2,type 2,i spell my name as S A K I Saki,<start>
+227,001E5R2,type 2,i spell my name as Y U K I Yuki,<start>
+228,001E5R2,type 2,i spell my name as M I N A M I Minami,<start>
+229,001E5R2,type 2,my name <ano> is Naoya N A O Y A,<start>
+230,001E5R2,type 2,i spell my name as T A K A Taka <eeto>,<start>
+231,001E5R2,type 2,my name is Taka T A K A,<start>
+232,001E5R2,type 2,my name is Naoki N A O K I,<start>
+233,001E5R2,type 2,my name is Kazuki K <ara> A Z U K <ara> I,<start>
+234,001E5R2,type 2,i spell my name as H I R O Hiro,<start>
+235,001E5R2,type 2,my name is Nana N A N A,<start>
+236,001E5R2,type 2,my name is Yuki Y U K I,<start>
+237,001E5R2,type 2,my name is Takuya T A K U Y A,<start>
+238,001E5R2,type 2,my name is Yui Y U I,<start>
+239,001E6R3,type 4,i go to my bed at four a m,<start>
+240,001E6R3,type 4,i go to bed in midnight,<start>
+241,001E6R3,type 4,i go to bed usually after three,<start>
+242,001E6R3,type 4,i go to bed usually after six,<start>
+243,001E6R3,type 4,i go to bed in morning,<start>
+244,001E6R3,type 4,i go to my bed at one a m,<start>
+245,001E6R3,type 4,i go to my bed at two a m,<start>
+246,001E6R3,type 4,i go to bed usually after seven,<start>
+247,001E6R3,type 4,i go to bed usually after ten,<start>
+248,001E6R3,type 4,i <eeto> go to bed at eight p m,<start>
+249,001E6R3,type 4,i go to my bed at <eeto> five a m,<start>
+250,001E6R3,type 4,i go to bed usually after five,<start>
+251,001E6R3,type 4,i go to my bed at nine a m,<start>
+252,001E6R3,type 4,i go to <maa> bed at one p m,<start>
+253,001E6R3,type 4,i go to bed usually after four,<start>
+254,001E6R3,type 4,i go to my <eeto> bed at three a m,<start>
+255,001E6R3,type 4,i go to bed at <ara> two p m,<start>
+256,001E6R3,type 4,i go to bed at three p m,<start>
+257,001E6R3,type 4,i go to bed usually after one,<start>
+258,001E6R3,type 4,i go to bed at ten p m,<start>
+259,001E6R3,type 4,i go to bed in evening,<start>
+260,001E6R3,type 4,i go to bed at twelve p <ano> m,<start>
+261,001E6R3,type 4,i go to bed at seven p m,<start>
+262,001E6R3,type 4,i go to bed in noon,<start>
+263,001E6R3,type 4,i go to my bed at eleven a m,<start>
+264,001E6R3,type 4,i go to bed at four p <eeto> m,<start>
+265,001E6R3,type 4,i go to my bed at ten a m,<start>
+266,001E6R3,type 4,i go to bed usually after two,<start>
+267,001E6R3,type 4,i go to my bed at <ano> six a m,<start>
+268,001E6R3,type 4,i go to bed in night,<start>
+269,001E6R3,type 4,i go to bed usually after eleven,<start>
+270,001E6R3,type 4,i go to my bed at eight a m,<start>
+271,001E6R3,type 4,i go to bed usually after twelve,<start>
+272,005E6R2,type 4,i do swimming,<start>
+273,005E6R2,type 4,i do the swimming,<start>
+274,005E6R2,type 4,i play the ,<start>
+275,005E6R2,type 4,i usually do my homework,<start>
+276,005E6R2,type 4,i read,<start>
+277,005E6R2,type 4,i draw pictures,<start>
+278,002E6T2,type 2,i love to visit Ghana,<start>
+279,002E6T2,type 2,i <maa> love to visit Korea,<start>
+280,002E6T2,type 2,i go to United Kingdom,<start>
+281,002E6T2,type 2,i want to visit Laos,<start>
+282,002E6T2,type 2,i would like to go to Laos <eeto>,<start>
+283,002E6T2,type 2,i want to visit Mongolia,<start>
+284,002E6T2,type 2,i want to visit Singapore,<start>
+285,002E6T2,type 2,i love to visit Spain,<start>
+286,002E6T2,type 2,i love to visit Indonesia,<start>
+287,002E6T2,type 2,i love to visit South Africa,<start>
+288,002E6T2,type 2,i want to visit Peru,<start>
+289,002E6T2,type 2,i would like to go to Rwanda,<start>
+290,002E6T2,type 2,i would like to go to Germany,<start>
+291,002E6T2,type 2,i go to Germany <ara>,<start>
+292,002E6T2,type 2,i want to go to Kenya,<start>
+293,002E6T2,type 2,i want to visit Argentina,<start>
+294,002E6T2,type 2,i love to visit Paraguay,<start>
+295,002E6T2,type 2,i would like to go to The United Kingdom,<start>
+296,002E6T2,type 2,i want to go to The UK,<start>
+297,002E6T2,type 2,i want to go to Laos,<start>
+298,002E6T2,type 2,i want to visit Spain,<start>
+299,002E6T2,type 2,i <maa> go to Japan,<start>
+300,002E6T2,type 2,i want to go to Denmark,<start>
+301,002E6T2,type 2,i would like to go to Argentina,<start>
+302,002E6T2,type 2,i want to visit Bolivia,<start>
+303,002E6T2,type 2,i want to visit Kenya,<start>
+304,002E6T2,type 2,i go to New Zealand,<start>
+305,002E6T2,type 2,i would like to go to Korea,<start>
+306,002E6T2,type 2,i go <eeto> to Papua New Guinea,<start>
+307,002E6T2,type 2,i would like to go to Oman,<start>
+308,002E6T2,type 2,i go to Kenya,<start>
+309,002E6T2,type 2,i <eeto> would like to go to Qatar,<start>
+310,002E6T2,type 2,i love to visit Iceland,<start>
+311,003E5T3,type 5,i love crafts ,<start>
+312,003E5T3,type 5,i read the period for integrated studies,<start>
+313,003E5T3,type 5,i love debate,<start>
+314,003E5T3,type 5,i study <eeto> history,<start>
+315,003E5T3,type 5,i read information,<start>
+316,003E5T3,type 5,i like arts and crafts,<start>
+317,003E5T3,type 5,i read moral education,<start>
+318,003E5T3,type 5,i read science,<start>
+319,003E5T3,type 5,i love living environment studies,<start>
+320,003E5T3,type 5,i read art,<start>
+321,003E5T3,type 5,i like reading career education,<start>
+322,003E5T3,type 5,i like <ano> reading social studies,<start>
+323,003E5T3,type 5,i love study philosophy,<start>
+324,003E5T3,type 5,i love Japanese <ara>,<start>
+325,003E5T3,type 5,i love study history,<start>
+326,003E5T3,type 5,i study living environment studies,<start>
+327,003E5T3,type 5,i love arts <eeto> and crafts,<start>
+328,003E5T3,type 5,i like reading art and handcraft,<start>
+329,003E5T3,type 5,i like reading debate,<start>
+330,003E5T3,type 5,i love study special activity,<start>
+331,003E5T3,type 5,i like history,<start>
+332,003E5T3,type 5,i like philosophy,<start>
+333,003E5T3,type 5,i read moral training <maa>,<start>
+334,003E5T3,type 5,i study <ara> career education,<start>
+335,003E5T3,type 5,i love study arts and crafts,<start>
+336,003E5T3,type 5,i like reading music,<start>
+337,003E5T3,type 5,i study programming,<start>
+338,003E5T3,type 5,i like industrial arts and home economics ,<start>
+339,003E5T3,type 5,i like science,<start>
+340,003E5T3,type 5,i read robotics,<start>
+341,003E5T3,type 5,i read chemisty <ano>,<start>
+342,003E5T3,type 5,i study music,<start>
+343,003E5T3,type 5,i like reading programming,<start>
+344,003E6R3,type 4,you can see the Nagoya Festival,<start>
+345,003E6R3,type 4,we have Sappro Snow Festival,<start>
+346,003E6R3,type 4,you will love the bon odori,<start>
+347,003E6R3,type 4,you can see the Hamamatsu Festival,<start>
+348,003E6R3,type 4,you will love the hana matsuri,<start>
+349,003E6R3,type 4,you can see <ara> the summer festival,<start>
+350,003E6R3,type 4,you <ara> will love the Nagasaki Kunchi Festival,<start>
+351,003E6R3,type 4,you can enjoy the <ano> full moon viewing,<start>
+352,003E6R3,type 4,you can see the Chichibu Night <maa> Festival,<start>
+353,003E6R3,type 4,we have Doll Festival,<start>
+354,003E6R3,type 4,you can see the fireworks,<start>
+355,003E6R3,type 4,we have <ara> star festival,<start>
+356,003E6R3,type 4,we have April Fools Day,<start>
+357,003E6R3,type 4,you will love the Doll <eeto> Festival,<start>
+358,003E6R3,type 4,you will love the Spring Festival,<start>
+359,003E6R3,type 4,you can see the Spring Festival,<start>
+360,003E6R3,type 4,you will love the Halloween,<start>
+361,003E6R3,type 4,you will love the Nebuta Festival,<start>
+362,003E6R3,type 4,you can enjoy <ano> the Nebuta Festival,<start>
+363,003E6R3,type 4,you can enjoy the fireworks,<start>
+364,003E6R3,type 4,you can see <ara> the Moon Festival,<start>
+365,003E6R3,type 4,we have oshogatsu,<start>
+366,003E6R3,type 4,you can enjoy the Dolls Festival,<start>
+367,003E6R3,type 4,we have <ara> bon odori,<start>
+368,003E6R3,type 4,you <eeto> can enjoy the Awa Odori,<start>
+369,003E6R3,type 4,you will love the April Fools Day,<start>
+370,003E6R3,type 4,you <maa> can enjoy the summer festival,<start>
+371,003E6R3,type 4,you can enjoy the Kanda Festival,<start>
+372,003E6R3,type 4,you will love the shichi go san,<start>
+373,003E6R3,type 4,you will love the New Years Day,<start>
+374,003E6R3,type 4,you can see the Nagasaki Kunchi Festival,<start>
+375,003E6R3,type 4,you can enjoy the Hamamatsu Festival,<start>
+376,003E6R3,type 4,you will love the Hamamatsu Festival,<start>
+377,004E5T3,type 5,i play xylophone,<start>
+378,004E5T3,type 5,i <ano> can wadaiko,<start>
+379,004E5T3,type 5,i can <ano> play castanets,<start>
+380,004E5T3,type 5,i can play the cymbal,<start>
+381,004E5T3,type 5,i can vibraphone,<start>
+382,004E5T3,type 5,let us play bell,<start>
+383,004E5T3,type 5,i can guitar,<start>
+384,004E5T3,type 5,i play castanets,<start>
+385,004E5T3,type 5,i play melodica,<start>
+386,004E5T3,type 5,i can play koto,<start>
+387,004E5T3,type 5,i can drum,<start>
+388,004E5T3,type 5,i play violin,<start>
+389,004E5T3,type 5,i can play violin,<start>
+390,004E5T3,type 5,i can harmonica,<start>
+391,004E5T3,type 5,let us play castanet,<start>
+392,004E5T3,type 5,i can play the organ,<start>
+393,004E5T3,type 5,i can electronic piano,<start>
+394,004E5T3,type 5,let us play guitar,<start>
+395,004E5T3,type 5,let us play wadaiko,<start>
+396,004E5T3,type 5,i play cymbals,<start>
+397,004E5T3,type 5,i play wadaiko,<start>
+398,004E5T3,type 5,i can <ano> hue,<start>
+399,004E5T3,type 5,i can trianlge <ara>,<start>
+400,004E5T3,type 5,i can play piano,<start>
+401,004E5T3,type 5,i can play the melodica,<start>
+402,004E5T3,type 5,i can <ano> play the hue,<start>
+403,004E5T3,type 5,let us play violin,<start>
+404,004E5T3,type 5,i can play the keyboard,<start>
+405,004E5T3,type 5,i can play the tambourine <eeto>,<start>
+406,004E5T3,type 5,i can play accordion,<start>
+407,004E5T3,type 5,i can play the trianlge <eeto>,<start>
+408,004E5T3,type 5,i <eeto> can accordion,<start>
+409,004E5T3,type 5,i <maa> can recorder,<start>
+410,004E5R3,type 5,i like playing fence,<start>
+411,004E5R3,type 5,i love playing surf,<start>
+412,004E5R3,type 5,i really like playing road relay,<start>
+413,004E5R3,type 5,i can play Kite flying,<start>
+414,004E5R3,type 5,i can play rollerskate,<start>
+415,004E5R3,type 5,i really like playing sport kite,<start>
+416,004E5R3,type 5,my favorite sport is gymnastics,<start>
+417,004E5R3,type 5,i love playing <maa> para swimming,<start>
+418,004E5R3,type 5,i love playing discus,<start>
+419,004E5R3,type 5,my favorite sport is tae kwon do,<start>
+420,004E5R3,type 5,i like playing kayaking,<start>
+421,004E5R3,type 5,i <maa> like playing jump rope,<start>
+422,004E5R3,type 5,my favorite sport is wheelchair fencing,<start>
+423,004E5R3,type 5,i really like playing snowboard,<start>
+424,004E5R3,type 5,i love playing dance <eeto>,<start>
+425,004E5R3,type 5,my favorite sport is takoage,<start>
+426,004E5R3,type 5,my favorite sport is athletics,<start>
+427,004E5R3,type 5,i can play volleyball,<start>
+428,004E5R3,type 5,i can play fencing,<start>
+429,004E5R3,type 5,i love playing dodgeball,<start>
+430,004E5R3,type 5,i like playing dance,<start>
+431,004E5R3,type 5,i like playing badminton,<start>
+432,004E5R3,type 5,my favorite sport is boxing,<start>
+433,004E5R3,type 5,my favorite sport is skiing,<start>
+434,004E5R3,type 5,i really like playing scuba dive,<start>
+435,004E5R3,type 5,i like playing wheelchair fencing,<start>
+436,004E5R3,type 5,i like playing surf,<start>
+437,004E5R3,type 5,i love playing windsurfing,<start>
+438,004E5R3,type 5,i <ara> can play jog,<start>
+439,004E5R3,type 5,i really like playing cricket <eeto>,<start>
+440,004E5R3,type 5,i really like playing wheelchair marathon,<start>
+441,004E5R3,type 5,i really like playing synchronized swim,<start>
+442,004E5R3,type 5,my favorite sport is wheelchair basketball,<start>
+443,,,I DO MY HOMEWORK AT SIX PM,<start>
+444,,,I USUALLY GO TO BED AT EIGHT THIRTY,<start>
+445,,,YOU CAN SEE KOALAS,<start>
+446,,,YOU CAN ENJOY THE SNOW FESTIVAL IN JAPAN,<start>
+447,,,I USUALLY GO TO SCHOOL AT SEVEN THIRTY,<start>
+448,,,I HAVE SCIENCE ON WEDNESDAYS,<start>
+449,,,I DO MY HOMEWORK AT FIVE PM EVERYDAY,<start>
+450,,,WE HAVE THE DOLL FESTIVAL IN SPRING,<start>
+451,,,MY TREASURE IS MY BAG,<start>
+452,,,I WANT TO WATCH TENNIS,<start>
+453,,,I GO TO SCHOOL AT SEVEN THIRTY EVERY DAY,<start>
+454,,,I USUALLY DO MY HOMEWORK AT SIX PM,<start>
+455,,,MY BIRTHDAY IS JANUARY FIFTEENTH,<start>
+456,,,MY BIRTHDAY IS SEPTEMBER THIRD,<start>
+457,,,I LIKE CURRY AND RICE,<start>
+458,,,I USUALLY EAT BREAKFAST AT SEVEN THIRTY,<start>
+459,,,I WANT TO WATCH RUGBY,<start>
+460,,,I LIKE P E,<start>
+461,,,I USUALLY READ,<start>
+462,,,MY TREASURE IS MY CAP,<start>
+463,,,MY BIRTHDAY IS JUNE TENTH,<start>
+464,,,YOU CAN EAT SUSHI,<start>
+465,,,YOU CAN SEE THE FESTIVAL,<start>
+466,,,YOU CAN EAT CHOCOLATE IN ITALY,<start>
+467,,,I USUALLY GO HOME AT FIVE,<start>

@@ -56,11 +56,10 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-        <a id="logged-homepage" class="nav-item nav-link active" href="/">Home <span
-            class="sr-only">(current)</span></a>
-        <a class="nav-item nav-link" href="{{NextValue}}">nextItem</a>
-        <a class="nav-item nav-link" href="{{PreviousValue}}">previousItem</a>
+        <a id="logged-homepage" class="nav-item nav-link" href="/">Home</a>
         <a id="logged-username" class="nav-item nav-link" href="/">Logged in as: </a>
+        <a class="nav-item nav-link" href="{{PreviousValue}}">(←)previousItem</a>
+        <a class="nav-item nav-link" href="{{NextValue}}">nextItem(→) </a>
       </div>
     </div>
   </nav>
@@ -118,28 +117,14 @@
   function eraseCookie(name) {
     document.cookie = name + '=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
   }
-  let id = val => document.getElementById(val);
-  let usernameBtn = id('usernameBtn')
-
   // check if username is already saved
   username = getCookie("midas-username");
-  loggedUsername = id('logged-username');
+  loggedUsername = document.getElementById('logged-username');
+  loggedHomepageImage = document.getElementById('logged-homepage-image');
+  loggedHomepage = document.getElementById('logged-homepage');
   loggedUsername.innerText = `Logged in as: ${username}`
-
-  usernameBtn.onclick = e => {
-    usernameInput = id('usernameInput')
-    username = usernameInput.value
-    console.log(username);
-    // set the username in the cookie
-    setCookie('midas-username', username, 1);
-    // update the navbar
-    loggedUsername = id('logged-username');
-    loggedHomepageImage = id('logged-homepage-image');
-    loggedHomepage = id('logged-homepage');
-    loggedUsername.innerText = `Logged in as: ${username}`
-    loggedHomepage.href = `/home/${username}`
-    loggedHomepageImage.href = `/home/${username}`
-  }
+  loggedHomepage.href = `/home/${username}`
+  loggedHomepageImage.href = `/home/${username}`
 </script>
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"

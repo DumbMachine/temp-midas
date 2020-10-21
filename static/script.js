@@ -110,7 +110,14 @@ function makeLink() {
       headers: {
         'Content-Type': `multipart/form-data; boundary=${data._boundary}`,
       }
-    })
+    }).then(res => {
+      if (res.status == 200){
+        alert(`Success: ${res.data["message"]}`)
+      }else{
+        alert(`Errored: ${res.data["message"]}`)
+      }
+      log("this is the result", res);
+    });
   }
 
   li.appendChild(mt);
